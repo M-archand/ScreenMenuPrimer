@@ -9,4 +9,4 @@ A companion plugin for [CS2MenuManager](https://github.com/schwarper/CS2MenuMana
 
 Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
 
-![GitHub Downloads](https://img.shields.io/github/downloads/M-archand/creenMenuPrimer/total?style=for-the-badge)
+![GitHub Downloads](https://img.shields.io/github/downloads/M-archand/ScreenMenuPrimer/total?style=for-the-badge)
